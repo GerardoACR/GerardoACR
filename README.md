@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gerardocorralr@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
   <img src="assets/asta.gif" alt="Asta — Black Clover" width="220"/>
 </p>
