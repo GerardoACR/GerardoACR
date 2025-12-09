@@ -3,7 +3,7 @@
 
 - 🔭 Actively pursuing an internship that advances me toward roles in Data Science, ML/AI Engineering, and AI Research.
   
-- 🌱 I’m diving into causal inference, which will be the focus of my master’s thesis with my Statistics professor for Big Data analysis. I’m pursuing this because causality yields insights we can act on—not just patterns.  I believe it matters because in Data Science, much of the work stops at finding patterns and associations, but without understanding the cause-and-effect mechanisms, decision-making remains fragile. For me, causality transforms data from descriptive knowledge into prescriptive guidance.
+- 🌱 I’m diving into causal inference, which will be the focus of my master’s thesis (probably). I’m pursuing this because causality yields insights we can act on—not just patterns.  I believe it matters because in Data Science, much of the work stops at finding patterns and associations, but without understanding the cause-and-effect mechanisms, decision-making remains fragile. For me, causality transforms data from descriptive knowledge into prescriptive guidance.
 
 - 📝 Add me on LinkedIn [https://www.linkedin.com/in/gerardo-antonio-corral-ruiz-38b154158](https://www.linkedin.com/in/gerardo-antonio-corral-ruiz-38b154158)
 
