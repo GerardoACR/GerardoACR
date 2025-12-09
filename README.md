@@ -5,7 +5,7 @@
   
 - 🌱 I’m diving into causal inference, which will be the focus of my master’s thesis (probably). I’m pursuing this because causality yields insights we can act on—not just patterns.  I believe it matters because in Data Science, much of the work stops at finding patterns and associations, but without understanding the cause-and-effect mechanisms, decision-making remains fragile. For me, causality transforms data from descriptive knowledge into prescriptive guidance.
 
-- 📝 Add me on LinkedIn [https://www.linkedin.com/in/gerardo-corral-ruiz-38b154158/](https://www.linkedin.com/in/gerardo-corral-ruiz-38b154158/)
+- 📝 Add me on LinkedIn [click here :)](https://www.linkedin.com/in/gerardo-corral-ruiz-38b154158/)
 - 📫 How to reach me **gerardocorralr@hotmail.com**
 
 <h3 align="left">Connect with me!</h3>
