@@ -3,7 +3,9 @@
 
 - 🔭 Actively pursuing an internship that advances me toward roles in Data Science, ML/AI Engineering, and AI Research.
   
-- 🌱 I’m diving into causal inference, which will be the focus of my master’s thesis (probably). I’m pursuing this because causality yields insights we can act on—not just patterns.  I believe it matters because in Data Science, much of the work stops at finding patterns and associations, but without understanding the cause-and-effect mechanisms, decision-making remains fragile. For me, causality transforms data from descriptive knowledge into prescriptive guidance.
+- 🌱 I’m interested in the intersection of AI, data science, and digital innovation, especially in how technical systems can support better decision-making in complex real-world contexts.
+
+- 🔎 One research direction I would like to explore more deeply in the future is causal inference and causal discovery. What interests me most is their ability to move beyond patterns and correlations and ask what is actually producing an outcome. I do not agree with Chris Anderson’s claim in The End of Theory that correlation is enough. Correlations may be the starting point of data science, but they are not explanations, and treating them as such can lead to shallow or harmful decisions when people and institutions are involved.
 
 - 📝 Add me on LinkedIn [click here :)](https://www.linkedin.com/in/gerardo-corral-ruiz-38b154158/)
 - 📫 How to reach me **gerardocorralr@hotmail.com**
