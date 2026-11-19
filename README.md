@@ -27,12 +27,13 @@
   </li>
 
   <li>
-    🚨 I want to explore how AI can strengthen
-    <strong>decision-support systems</strong> for public institutions, 
-    international organizations, and private companies focusing in
-    crisis management and organizational leadership, helping
-    decision-makers anticipate environmental hazards and make
-    better-informed strategic decisions.
+    🚨 I aim to explore how AI can strengthen
+    <strong>decision-support systems</strong> for public institutions,
+    international organizations, and private-sector actors,
+    supporting crisis management, strategic planning, and
+    organizational decision-making. My goal is to help
+    decision-makers anticipate environmental hazards,
+    assess risks, and make better-informed decisions.
   </li>
 
   <li>
