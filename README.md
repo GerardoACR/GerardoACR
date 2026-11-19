@@ -8,12 +8,13 @@
 <ul>
   <li>
     🎓 I am a <strong>PhD Researcher in Health, Safety and Green
-    Systems at the University of Bologna</strong>, where I also
-    completed my Master's degree in <strong>Governance and
-    Digital Innovation</strong>, graduating with
-    <strong>110/110 cum laude (highest honors)</strong>.
-    My academic background also includes a degree in
-    <strong>Philosophy</strong> from Universidad Panamericana.
+    Systems at the University of Bologna</strong>, conducting research
+    in collaboration with <strong>Hypermeteo</strong>. 
+    I also earned my Master's degree in <strong>Governance 
+    and Digital Innovation</strong> at the University of Bologna, 
+    graduating with <strong>110/110 cum laude (highest honors)</strong>.
+    I hold a bachelor's degree in <strong>Philosophy</strong>
+    from <strong>Universidad Panamericana</strong> in Mexico.
   </li>
 
   <li>
