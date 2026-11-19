@@ -125,24 +125,31 @@
     NetCDF, Geospatial Data, and Data Engineering</strong>.
   </li>
 
-<h3 align="left">📫 Connect with me!</h3>
-  <p>
-    🔗 Find me on
+  <h3 align="left">📬 Let's connect!</h3>
+  
+  <p align="left">
     <a href="https://www.linkedin.com/in/gerardo-corral-ruiz-38b154158/">
-    LinkedIn</a>.
-  </p>
-  <p>
-    🔗 Contact me:
+      <img
+        src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      />
+    </a>
+    &nbsp;
     <a href="mailto:gerardo.corralruiz2@unibo.it">
-    gerardo.corralruiz2@unibo.it</a>
+      <img
+        src="https://img.shields.io/badge/Email-Contact%20me-374151?style=for-the-badge"
+        alt="Email"
+      />
+    </a>
   </p>
-</ul>
-
-<p align="left">
-  <img src="assets/asta.gif"
-       alt="Asta — Black Clover"
-       width="220"/>
-</p>
+  
+  <p align="left">
+    <img
+      src="assets/asta.gif"
+      alt="Asta — Black Clover"
+      width="220"
+    />
+  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
