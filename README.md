@@ -53,7 +53,7 @@
     and <strong>weather-related retail analytics</strong>,
     including an analytical project for a fashion company exploring relationships
     between weather conditions, sales, and discounts. I also developed an <strong>LLM-powered 
-    Weather AI Agent</strong>  at Hypermeteo, combining <strong>deterministic scientific tools
+    Weather AI Agent</strong>, combining <strong>deterministic scientific tools
     with agentic AI workflows</strong>. Built with Python, FastAPI,
     LangGraph, and xarray/NetCDF, it supports meteorological data
     retrieval, statistical analysis, spatiotemporal comparisons,
