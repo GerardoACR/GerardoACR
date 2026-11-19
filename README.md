@@ -125,6 +125,8 @@
     NetCDF, Geospatial Data, and Data Engineering</strong>.
   </li>
 
+<h3 align="left">📫 Connect with me!</h3>
+
   <li>
     🔗 Find me on
     <a href="https://www.linkedin.com/in/gerardo-corral-ruiz-38b154158/">
@@ -132,13 +134,11 @@
   </li>
 
   <li>
-    📫 Contact me:
+    🔗 Contact me:
     <a href="mailto:gerardo.corralruiz2@unibo.it">
     gerardo.corralruiz2@unibo.it</a>
   </li>
 </ul>
-
-<h3 align="left">Connect with me!</h3>
 
 <p align="left">
   <img src="assets/asta.gif"
