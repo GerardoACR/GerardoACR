@@ -13,8 +13,9 @@
     I also earned my Master's degree in <strong>Governance 
     and Digital Innovation</strong> at the University of Bologna, 
     graduating with <strong>110/110 cum laude (highest honors)</strong>.
-    I hold a bachelor's degree in <strong>Philosophy</strong>
-    from <strong>Universidad Panamericana</strong> in Mexico.
+    I hold a bachelor's degree in <strong>Philosophy</strong> from
+    <strong>Universidad Panamericana</strong> in Mexico, specializing
+    in <strong>Contemporary Philosophy and Philosophy of Technology</strong>.
   </li>
 
   <li>
