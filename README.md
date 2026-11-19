@@ -108,10 +108,7 @@
   <li>
     🔗 Find me on
     <a href="https://www.linkedin.com/in/gerardo-corral-ruiz-38b154158/">
-    LinkedIn</a>
-    or explore my
-    <a href="https://github.com/GerardoACR?tab=repositories">
-    GitHub projects</a>.
+    LinkedIn</a>.
   </li>
 
   <li>
