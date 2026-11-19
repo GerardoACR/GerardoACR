@@ -7,9 +7,11 @@
 
 <ul>
   <li>
-    🎓 I am a <strong>PhD Researcher in Health, Safety and Green Systems
-    at the University of Bologna</strong>, where I also completed my
-    Master's degree in <strong>Governance and Digital Innovation</strong>.
+    🎓 I am a <strong>PhD Researcher in Health, Safety and Green
+    Systems at the University of Bologna</strong>, where I also
+    completed my Master's degree in <strong>Governance and
+    Digital Innovation</strong>, graduating with
+    <strong>110/110 cum laude (highest honors)</strong>.
     My academic background also includes a degree in
     <strong>Philosophy</strong> from Universidad Panamericana.
   </li>
@@ -39,12 +41,15 @@
   </li>
 
   <li>
-    🧠 Previously, I worked at <strong>Hypermeteo</strong> on applied AI,
-    meteorological data science, and data engineering. My experience
-    includes developing and validating <strong>Deep Learning models
-    for solar irradiance nowcasting</strong>, working with ConvLSTM,
-    satellite and geospatial data, distributed GPU training,
-    and <strong>High-Performance Computing (HPC)</strong>.
+    🧠 Previously, I worked at
+    <a href="https://www.hypermeteo.com/en/"><strong>Hypermeteo</strong></a>,
+    an Italian company specializing in high-resolution weather and
+    climate intelligence, on applied AI, meteorological data
+    science, and data engineering. My experience includes
+    developing <strong>Deep Learning models for solar irradiance
+    nowcasting</strong>, working with ConvLSTM, satellite and
+    geospatial data, distributed GPU training, and
+    <strong>High-Performance Computing (HPC)</strong>.
   </li>
 
   <li>
@@ -79,12 +84,17 @@
 
   <li>
     👨‍🏫 I am passionate about <strong>teaching philosophy and
-    encouraging critical thinking</strong>. I have taught at
-    <strong>Universidad Panamericana, Hybridge, and Northridge</strong>,
+    fostering critical thinking</strong>. I have taught at
+    <a href="https://www.topuniversities.com/universities/universidad-panamericana">
+    <strong>Universidad Panamericana</strong></a>,
+    <a href="https://hybridge.education">
+    <strong>Hybridge Education</strong></a>, and
+    <a href="https://nsm.edu.mx/">
+    <strong>Northridge School Mexico</strong></a>,
     across university and high-school education.
-    Whenever possible, I enjoy teaching classes, courses,
-    and workshops. I believe future generations need
-    both technological literacy and the intellectual independence
+    I also enjoy developing courses and workshops,
+    believing that future generations need both
+    <strong>technological literacy and critical independence</strong>
     to question, understand, and transform their world.
   </li>
 
