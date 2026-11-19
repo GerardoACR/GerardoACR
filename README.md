@@ -51,7 +51,7 @@
     ⚙️ My professional projects also include meteorological data
     acquisition and validation pipelines, API integration,
     and <strong>weather-related retail analytics</strong>,
-    including an analytical project for BATA exploring relationships
+    including an analytical project for a fashion company exploring relationships
     between weather conditions, sales, and discounts.
   </li>
 
