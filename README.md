@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Gerardo Corral</h1>
+<h1 align="center">Hi 👋, I'm Gerardo Corral-Ruiz</h1>
 
 <h3 align="center">
   PhD Researcher @ University of Bologna 🇮🇹 · Weather AI & Data Science
