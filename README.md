@@ -126,18 +126,16 @@
   </li>
 
 <h3 align="left">📫 Connect with me!</h3>
-
-  <li>
+  <p>
     🔗 Find me on
     <a href="https://www.linkedin.com/in/gerardo-corral-ruiz-38b154158/">
     LinkedIn</a>.
-  </li>
-
-  <li>
+  </p>
+  <p>
     🔗 Contact me:
     <a href="mailto:gerardo.corralruiz2@unibo.it">
     gerardo.corralruiz2@unibo.it</a>
-  </li>
+  </p>
 </ul>
 
 <p align="left">
