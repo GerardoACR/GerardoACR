@@ -24,8 +24,9 @@
 
   <li>
     🚨 I want to explore how AI can strengthen
-    <strong>decision-support systems</strong> for public institutions,
-    crisis management, and organizational leadership, helping
+    <strong>decision-support systems</strong> for public institutions, 
+    international organizations, and private companies focusing in
+    crisis management and organizational leadership, helping
     decision-makers anticipate environmental hazards and make
     better-informed strategic decisions.
   </li>
