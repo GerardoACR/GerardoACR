@@ -99,6 +99,25 @@
     <strong>technological literacy and critical independence</strong>
     to question, understand, and transform their world.
   </li>
+  
+  <li>
+    💻 During my Master's, I developed several interdisciplinary
+    projects combining <strong>AI, Data Science, Cybersecurity,
+    and Digital Innovation</strong>. My most significant project
+    explored <a href="https://github.com/GerardoACR/iiot_ids_project">
+    <strong>Machine Learning for Industrial IoT Intrusion Detection</strong></a>,
+    evaluating cybersecurity threats, class imbalance, and detection
+    reliability. Other projects include an
+    <a href="https://github.com/GerardoACR/cv-validator-and-analysis">
+    <strong>LLM-assisted CV Processing System</strong></a>
+    integrating AI with deterministic validation workflows,
+    a <a href="https://github.com/GerardoACR/bologna-climate-health-risk">
+    <strong>Climate–Health Risk Analysis in Bologna</strong></a>
+    examining temperature-related risks for vulnerable populations,
+    and <a href="https://github.com/GerardoACR/ontology-rdf-inpatient-facilities-italy">
+    <strong>Healthcare Knowledge Representation</strong></a>
+    using ontologies and semantic technologies.
+  </li>
 
   <li>
     🛠️ My technical toolkit includes
