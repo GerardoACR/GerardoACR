@@ -100,8 +100,8 @@
 
   <li>
     🛠️ My technical toolkit includes
-    <strong>Python, PyTorch, pandas, NumPy, scikit-learn,
-    SQL, R, Git, Linux, HPC, Distributed Computing,
+    <strong>Python, PyTorch, pandas, NumPy, scikit-learn, LangChain,
+    LangGraph, GeoPandas, GIS, SQL, R, Git, Linux, HPC, Distributed Computing,
     NetCDF, Geospatial Data, and Data Engineering</strong>.
   </li>
 
